@@ -2,14 +2,14 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lissone&show_icons=true&theme=radical)
 
-### Desenvolvedor full-stack, cursando 5º Semestre de Sistemas de Informação. 
+## Desenvolvedor full-stack, cursando 5º Semestre de Sistemas de Informação. 
 
 Visão analítica do contexto, recomendando ações e soluções com foco em melhorias, otimização de tarefas e redução de custos. Perfil facilitador, com facilidade de adaptação às necessidades do negócio.
 
-- 🔭 Trabalhando atualmente em um site de contato.
+### Linguagens 
+- Conheço / Utilizando
+[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">]
 - 🌱 Estudando JavaScript, Vue.js, React, Flutter e Docker.
-- 💬 leonardo.lissonez@gmail.com
-- 📱 (11)910487619
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
