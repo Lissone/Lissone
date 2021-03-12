@@ -8,8 +8,6 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ## Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
-
 ### Conhecimento
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
@@ -17,6 +15,8 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ### Aprendendo / Aperfeiçoando
 
 | Dart |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
 
 ## Ferramentas
 
