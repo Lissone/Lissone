@@ -11,7 +11,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 - 💬 leonardo.lissonez@gmail.com
 - 📱 (11)910487619
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&theme=tokyonight&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
 
 <!--
 **Lissone/Lissone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
