@@ -7,9 +7,11 @@ Desenvolvedor full-stack, cursando 5º Semestre de Sistemas de Informação.
 Visão analítica do contexto, recomendando ações e soluções com foco em melhorias, otimização de tarefas e redução de custos. Perfil facilitador, com facilidade de adaptação às necessidades do negócio.
 
 - 🔭 Trabalhando atualmente em um site de contato.
-- 🌱 Estudando JavaScript, Vue.js, React e Flutter.
+- 🌱 Estudando JavaScript, Vue.js, React, Flutter e Docker.
 - 💬 leonardo.lissonez@gmail.com
 - 📱 (11)910487619
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
 
@@ -26,4 +28,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 -->
