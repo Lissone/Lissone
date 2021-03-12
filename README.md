@@ -10,6 +10,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 - 🌱 Estudando JavaScript, Vue.js, React, Flutter e Docker.
 - 💬 leonardo.lissonez@gmail.com
 - 📱 (11)910487619
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 
