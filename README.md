@@ -8,11 +8,11 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ## Linguagens ☕
 
-### Conhecimento
+### - Conhecimento
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
 
-### Aprendendo / Aperfeiçoando
+### - Aprendendo / Aperfeiçoando
 
 | Dart |
 
