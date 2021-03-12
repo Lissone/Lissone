@@ -8,19 +8,20 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ## Linguagens
 
- C, C#, HTML, CSS, Javascript, Typescript, SQL Server.
+ | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
  
- - Aprendendo / Aperfeiçoando
+ ### Aprendendo / Aperfeiçoando
  
- Dart
+ | Dart |
  
 ## Ferramentas
   
-  Vue.js, Vuetify, Buefy, TypeORM, Express.
+  | Vue.js | Vuetify | Buefy | TypeORM | Express | Postman |
   
-  - Aprendendo / Aperfeiçoando
+  ### Aprendendo / Aperfeiçoando
   
-  Docker, React, React Native, Flutter.
+  | Docker | React | React Native | Flutter |
+  
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lissone/)
