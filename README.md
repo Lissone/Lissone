@@ -20,11 +20,11 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ## Ferramentas 🛠️
 
-### Conhecimento
+### - Conhecimento
 
 | Vue.js | Vuetify | Buefy | TypeORM | Express | Postman |
 
-### Aprendendo / Aperfeiçoando
+### - Aprendendo / Aperfeiçoando
 
 | Docker | React | React Native | Flutter |
   
