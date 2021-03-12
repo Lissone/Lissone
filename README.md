@@ -1,6 +1,6 @@
 # Leonardo D. Lissone Santomero
 
-![Lissone Github stats](https://github-readme-stats.vercel.app/api?username=Lissone&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Lissone&show_icons=true&theme=radical)
 
 Desenvolvedor full-stack, cursando 5º Semestre de Sistemas de Informação. 
 
