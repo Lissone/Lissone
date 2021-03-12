@@ -1,4 +1,4 @@
-# Leonardo Lissone
+# Leonardo Lissone 
 
 ### Desenvolvedor full-stack, cursando 5º Semestre de Sistemas de Informação. 
 
@@ -6,7 +6,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lissone&show_icons=true&theme=radical)
 
-## Linguagens
+## Linguagens ☕
 
 ### Conhecimento
 
@@ -18,7 +18,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
 
-## Ferramentas
+## Ferramentas 🛠️
 
 ### Conhecimento
 
@@ -28,9 +28,8 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 | Docker | React | React Native | Flutter |
   
-## Contato
+## Contato 📫
   
-
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lissone/)
 [![WhatsApp](https://img.shields.io/badge/-WHATSAPP-00FF00?style=for-the-badge&logo=whatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5511910487619)
