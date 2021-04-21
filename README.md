@@ -22,7 +22,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ### - Conhecimento
 
-| Vue.js | Vuetify | Buefy | TypeORM | Express | Postman |
+| Vue.js | Vuetify | Buefy | TypeORM | Express | Axios | Postman |
 
 ### - Aprendendo / Aperfeiçoando
 
