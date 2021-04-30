@@ -6,7 +6,8 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lissone&show_icons=true&theme=radical)
 
-##☕ Linguagens & Ferramentas
+## ☕ Linguagens & Ferramentas
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-565656?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-565656?logo=CSS3&logoColor=white&style=for-the-badge)&nbsp;
@@ -43,7 +44,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
 
-##📫 Contato
+## 📫 Contato
   
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lissone/)
