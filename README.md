@@ -38,7 +38,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 
 ![Git](https://img.shields.io/badge/-Git-565656?logo=Git&logoColor=white&style=for-the-badge)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=VisualStudioCode&logoColor=white&style=for-the-badge)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=Visual&logoColor=white&style=for-the-badge)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
 
