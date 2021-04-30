@@ -21,8 +21,6 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ## Ferramentas 🛠️
 
 ### - Conhecimento
-<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=JavaScript&logoColor=lightgrey&style=for-the-badge&logo=appveyor" />
-
 | Vue.js | Vuetify | Buefy | TypeORM | Express | Axios | Postman |
 
 ### - Aprendendo / Aperfeiçoando
