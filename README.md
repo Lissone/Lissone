@@ -9,6 +9,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ## Linguagens ☕
 
 ### - Conhecimento
+https://img.shields.io/badge/-ReactJs-DDD?logo=react&logoColor=white&style=flat
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
 
