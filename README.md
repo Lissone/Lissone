@@ -35,6 +35,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![Axios](https://img.shields.io/badge/-Axios-565656?logo=Axios&logoColor=white&style=for-the-badge)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-565656?logo=vuetify&logoColor=white&style=for-the-badge)&nbsp;
 ![Buefy](https://img.shields.io/badge/-Buefy-565656?logo=buefy&logoColor=white&style=for-the-badge)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-565656?logo=Sass&logoColor=white&style=for-the-badge)&nbsp;
 
 
 ![Git](https://img.shields.io/badge/-Git-565656?logo=Git&logoColor=white&style=for-the-badge)&nbsp;
