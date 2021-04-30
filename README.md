@@ -30,6 +30,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![Vue.Js](https://img.shields.io/badge/-VueJs-565656?logo=Vue.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Nuxt.Js](https://img.shields.io/badge/-NuxtJs-565656?logo=Nuxt.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-565656?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
+![Asp.Net](https://img.shields.io/badge/-Asp.Net-565656?logo=Asp.Net&logoColor=white&style=for-the-badge)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-565656?logo=Docker&logoColor=white&style=for-the-badge)&nbsp;
 
 
