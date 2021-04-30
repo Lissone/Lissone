@@ -10,7 +10,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ### - Conhecimento
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
-![C](https://img.shields.io/badge/-C-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
+![C](https://img.shields.io/badge/-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
 
