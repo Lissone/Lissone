@@ -42,6 +42,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
 
 ## 📫 Contato
