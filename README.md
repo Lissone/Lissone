@@ -11,13 +11,15 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![HTML5](https://img.shields.io/badge/-HTML5-565656?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-565656?logo=CSS3&logoColor=white&style=for-the-badge)&nbsp;
 ![C](https://img.shields.io/badge/-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-565656?logo=C Sharp&logoColor=white&style=for-the-badge)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-565656?logo=CSharp&logoColor=white&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-565656?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-565656?logo=dart&logoColor=white&style=for-the-badge)&nbsp;
 
+
 ![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-565656?logo=Oracle&logoColor=white&style=for-the-badge)&nbsp;
+
 
 ![Node.Js](https://img.shields.io/badge/-NodeJs-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
@@ -26,11 +28,13 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![Flutter](https://img.shields.io/badge/-Flutter-565656?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-565656?logo=Docker&logoColor=white&style=for-the-badge)&nbsp;
 
+
 ![Express](https://img.shields.io/badge/-Express-565656?logo=express&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeORM](https://img.shields.io/badge/-TypeORM-565656?logo=TypeORM&logoColor=white&style=for-the-badge)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-565656?logo=Axios&logoColor=white&style=for-the-badge)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-565656?logo=vuetify&logoColor=white&style=for-the-badge)&nbsp;
 ![Buefy](https://img.shields.io/badge/-Buefy-565656?logo=buefy&logoColor=white&style=for-the-badge)&nbsp;
+
 
 ![Git](https://img.shields.io/badge/-Git-565656?logo=Git&logoColor=white&style=for-the-badge)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=VisualStudioCode&logoColor=white&style=for-the-badge)&nbsp;
