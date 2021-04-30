@@ -9,7 +9,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ## Linguagens ☕
 
 ### - Conhecimento
-https://img.shields.io/badge/-ReactJs-DDD?logo=react&logoColor=white&style=flat
+![React.Js](https://img.shields.io/badge/-ReactJs-728589?logo=react&logoColor=white&style=flat)&nbsp;
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
 
@@ -33,21 +33,3 @@ https://img.shields.io/badge/-ReactJs-DDD?logo=react&logoColor=white&style=flat
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lissone/)
 [![WhatsApp](https://img.shields.io/badge/-WHATSAPP-00FF00?style=for-the-badge&logo=whatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5511910487619)
-<!--
-**Lissone/Lissone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lissone/)
--->
