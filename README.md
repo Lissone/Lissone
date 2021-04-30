@@ -11,7 +11,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ### - Conhecimento
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![C](https://img.shields.io/badge/-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-565656?style=for-the-badge)&nbsp;
+![C#](https://img.shields.io/badge/-C Sharp-565656?logo=C Sharp&logoColor=white&style=for-the-badge)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-565656?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-565656?logo=CSS3&logoColor=white&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
@@ -28,7 +28,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Node.Js](https://img.shields.io/badge/-NodeJs-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-565656?logo=Docker&logoColor=white&style=for-the-badge)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-565656?logo=ReactNative&logoColor=white&style=for-the-badge)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-565656?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
