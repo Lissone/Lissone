@@ -11,14 +11,14 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ### - Conhecimento
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![C](https://img.shields.io/badge/-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-565656?logo=C#&logoColor=white&style=for-the-badge)&nbsp;
-![Html](https://img.shields.io/badge/-HTML-565656?logo=html&logoColor=white&style=for-the-badge)&nbsp;
-![Css](https://img.shields.io/badge/-Css-565656?logo=css&logoColor=white&style=for-the-badge)&nbsp;
+![C#](https://img.shields.io/badge/-C#-565656?logo=C#&logoColor=white&style=for-the-badge)&nbsp;
+![Html](https://img.shields.io/badge/-HTML-565656?logo=Html&logoColor=white&style=for-the-badge)&nbsp;
+![Css](https://img.shields.io/badge/-Css-565656?logo=Css&logoColor=white&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-565656?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-565656?logo=SqlServer&logoColor=white&style=for-the-badge)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-565656?logo=dart&logoColor=white&style=for-the-badge)&nbsp;
-![Vue.Js](https://img.shields.io/badge/-VueJs-565656?logo=vue&logoColor=white&style=for-the-badge)&nbsp;
+![Vue.Js](https://img.shields.io/badge/-VueJs-565656?logo=Vue.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-565656?logo=vuetify&logoColor=white&style=for-the-badge)&nbsp;
 ![Buefy](https://img.shields.io/badge/-Buefy-565656?logo=buefy&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeORM](https://img.shields.io/badge/-TypeORM-565656?logo=TypeORM&logoColor=white&style=for-the-badge)&nbsp;
@@ -27,6 +27,8 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Node.Js](https://img.shields.io/badge/-NodeJs-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-565656?logo=Docker&logoColor=white&style=for-the-badge)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-565656?logo=ReactNative&logoColor=white&style=for-the-badge)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-565656?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
 
