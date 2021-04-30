@@ -20,12 +20,15 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 ![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-565656?logo=Oracle&logoColor=white&style=for-the-badge)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-565656?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
 
 
 ![Node.Js](https://img.shields.io/badge/-NodeJs-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
+![Next.Js](https://img.shields.io/badge/-NextJs-565656?logo=Next.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Vue.Js](https://img.shields.io/badge/-VueJs-565656?logo=Vue.Js&logoColor=white&style=for-the-badge)&nbsp;
+![Nuxt.Js](https://img.shields.io/badge/-NuxtJs-565656?logo=Nuxt.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-565656?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-565656?logo=Docker&logoColor=white&style=for-the-badge)&nbsp;
 
