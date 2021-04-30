@@ -11,13 +11,13 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ### - Conhecimento
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![C](https://img.shields.io/badge/-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![C#](https://img.shields.io/badge/-c#-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![Html](https://img.shields.io/badge/-HTML-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![Css](https://img.shields.io/badge/-Css-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![SqlServer](https://img.shields.io/badge/-SqlServer-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-565656?logo=csharp&logoColor=white&style=for-the-badge)&nbsp;
+![Html](https://img.shields.io/badge/-HTML-565656?logo=html&logoColor=white&style=for-the-badge)&nbsp;
+![Css](https://img.shields.io/badge/-Css-565656?logo=css&logoColor=white&style=for-the-badge)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-565656?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
+![SqlServer](https://img.shields.io/badge/-SqlServer-565656?logo=sqlserver&logoColor=white&style=for-the-badge)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-565656?logo=dart&logoColor=white&style=for-the-badge)&nbsp;
 
 | C | C# | HTML | CSS | Javascript | Typescript | SQL Server |
 
