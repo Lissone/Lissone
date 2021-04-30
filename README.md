@@ -12,7 +12,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ![HTML5](https://img.shields.io/badge/-HTML5-565656?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-565656?logo=CSS3&logoColor=white&style=for-the-badge)&nbsp;
 ![C](https://img.shields.io/badge/-565656?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-565656?logo=CSharp&logoColor=white&style=for-the-badge)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-565656?logo=C%20Sharp&logoColor=white&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-565656?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-565656?logo=dart&logoColor=white&style=for-the-badge)&nbsp;
@@ -38,7 +38,7 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 
 ![Git](https://img.shields.io/badge/-Git-565656?logo=Git&logoColor=white&style=for-the-badge)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=Visual&logoColor=white&style=for-the-badge)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
 
