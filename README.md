@@ -19,7 +19,6 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-565656?logo=Oracle&logoColor=white&style=for-the-badge)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-565656?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
 
 
