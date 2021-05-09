@@ -51,5 +51,5 @@ Visão analítica do contexto, recomendando ações e soluções com foco em mel
 ## 📫 Contato
   
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lissone/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lissone-4a118a211/)
 [![WhatsApp](https://img.shields.io/badge/-WHATSAPP-00FF00?style=for-the-badge&logo=whatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5511910487619)
