@@ -3,8 +3,10 @@
 </h1> 
 
 <h3 align="center">
-  As student and technology enthusiast I'm looking forward to enroll in fullstack development. I like to explore new techniques and knowledge, as well as perfecting them.
+  As student and technology-loving. In order to become a high level professional, always looking for learning and developing projects to apply knowledge.
 </h3> 
+
+<hr/>
 
 Analytical view of the context, recommending actions and solutions with a focus on improvements, task optimization and cost reduction. Facilitating profile, with easy adaptation to business needs.
 
