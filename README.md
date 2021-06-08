@@ -12,6 +12,7 @@ Analytical view of the context, recommending actions and solutions with a focus 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lissone&show_icons=true&theme=radical)
 
+[VSCode Settings](https://gist.github.com/Lissone/56ee7ccc3e19a7069d87103d5ff24ce7)
 ## ☕ Languages & Tools
 
 
