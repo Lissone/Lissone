@@ -10,7 +10,10 @@
 
 Analytical view of the context, recommending actions and solutions with a focus on improvements, task optimization and cost reduction. Facilitating profile, with easy adaptation to business needs.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Lissone&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="50%" />
+</p>
 
 [VSCode Settings](https://gist.github.com/Lissone/56ee7ccc3e19a7069d87103d5ff24ce7)
 ## ☕ Languages & Tools
@@ -53,8 +56,9 @@ Analytical view of the context, recommending actions and solutions with a focus 
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=10&layout=compact&theme=radical)](https://github.com/Lissone/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=6&layout=compact&theme=dark" alt="Lissone" width="50%" />
+</p>
 
 ## 📫 Contact
   
