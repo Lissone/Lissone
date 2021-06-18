@@ -10,11 +10,11 @@
 
 Analytical view of the context, recommending actions and solutions with a focus on improvements, task optimization and cost reduction. Facilitating profile, with easy adaptation to business needs.
 
-<p align="center">
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="50%"/>
   <div height="20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="50%" />
-</p>
+</div>
 
 [VSCode Settings](https://gist.github.com/Lissone/56ee7ccc3e19a7069d87103d5ff24ce7)
 ## ☕ Languages & Tools
