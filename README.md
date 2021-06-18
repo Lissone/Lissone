@@ -12,6 +12,7 @@ Analytical view of the context, recommending actions and solutions with a focus 
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="50%"/>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="50%" />
 </p>
 
