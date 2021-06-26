@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Lissone" alt="Profile views" />
 </p>
 
-<h4 align="center" style="margin-bottom: 30px">
+<h3 align="center" style="margin-bottom: 30px">
   As student and technology-loving. In order to become a high level professional, always looking for learning and developing projects to apply knowledge.
 </h3>
 
