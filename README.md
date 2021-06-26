@@ -18,12 +18,12 @@
 </p>
 
 <p style="margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="40%" style="margin-right: 30px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="50%" style="margin-right: 30px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="40%" style="margin-right: 30px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="50%" style="margin-right: 30px"/>
 </p>
 
-# ☕ Languages & Tools
+## ☕ Languages & Tools
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-565656?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;
@@ -62,9 +62,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=6&layout=compact&theme=dark" alt="Lissone" width="40%" style="margin-top: 30px; margin-bottom: 30px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=6&layout=compact&theme=dark" alt="Lissone" width="50%" style="margin-top: 30px; margin-bottom: 30px;" />
 
-# 📫 Contact
+## 📫 Contact
   
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lissone-4a118a211/)
