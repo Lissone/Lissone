@@ -17,9 +17,9 @@
   <a href='https://gist.github.com/Lissone/56ee7ccc3e19a7069d87103d5ff24ce7' target='_blank'>VSCode Settings</a>
 </p>
 
-<p style="margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center;">
+<p align="center" style="margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="40%" style="margin-right: 30px"/>
-  <p width='10px'/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="40%" style="margin-right: 30px"/>
 </p>
 
