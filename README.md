@@ -63,7 +63,9 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
+
 <br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lissone&langs_count=6&layout=compact&theme=dark" alt="Lissone" width="50%" style="margin-top: 30px; margin-bottom: 30px;" />
 
 ## 📫 Contact
