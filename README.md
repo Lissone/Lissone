@@ -18,9 +18,11 @@
 </p>
 
 <p style="margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="50%" style="margin-right: 30px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="40%" style="margin-right: 30px"/>
+  
+  <p width='20px'/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="50%" style="margin-right: 30px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="40%" style="margin-right: 30px"/>
 </p>
 
 ## ☕ Languages & Tools
