@@ -17,11 +17,16 @@
   <a href='https://gist.github.com/Lissone/56ee7ccc3e19a7069d87103d5ff24ce7' target='_blank'>VSCode Settings</a>
 </p>
 <br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="40%"  align="left"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone" width="40%" align="right"/>
- <p/>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lissone&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lissone&count_private=true&show_icons=true&theme=dark" alt="Lissone"/>
+    </td>
+  </tr>
+</table>
  
 <br/><br/><br/><br/><br/><br/>
 
