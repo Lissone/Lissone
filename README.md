@@ -46,26 +46,10 @@
 ![Node.Js](https://img.shields.io/badge/-NodeJs-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
-![Next.Js](https://img.shields.io/badge/-NextJs-565656?logo=Next.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Vue.Js](https://img.shields.io/badge/-VueJs-565656?logo=Vue.Js&logoColor=white&style=for-the-badge)&nbsp;
-![Nuxt.Js](https://img.shields.io/badge/-NuxtJs-565656?logo=Nuxt.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-565656?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
 ![Asp.Net](https://img.shields.io/badge/-Asp.Net-565656?logo=Asp.Net&logoColor=white&style=for-the-badge)&nbsp;
 
-
-![Express](https://img.shields.io/badge/-Express-565656?logo=express&logoColor=white&style=for-the-badge)&nbsp;
-![TypeORM](https://img.shields.io/badge/-TypeORM-565656?logo=TypeORM&logoColor=white&style=for-the-badge)&nbsp;
-![Mongoose](https://img.shields.io/badge/-Mongoose-565656?logo=Mongoose&logoColor=white&style=for-the-badge)&nbsp;
-![Axios](https://img.shields.io/badge/-Axios-565656?logo=Axios&logoColor=white&style=for-the-badge)&nbsp;
-![Vuetify](https://img.shields.io/badge/-Vuetify-565656?logo=vuetify&logoColor=white&style=for-the-badge)&nbsp;
-![Buefy](https://img.shields.io/badge/-Buefy-565656?logo=buefy&logoColor=white&style=for-the-badge)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-565656?logo=Sass&logoColor=white&style=for-the-badge)&nbsp;
-
-
-![Git](https://img.shields.io/badge/-Git-565656?logo=Git&logoColor=white&style=for-the-badge)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
 
 <br/>
 
