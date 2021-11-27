@@ -36,19 +36,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-565656?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-565656?logo=C%20Sharp&logoColor=white&style=for-the-badge)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-565656?logo=dart&logoColor=white&style=for-the-badge)&nbsp;
-
-
-![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-565656?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
 
 
 ![Node.Js](https://img.shields.io/badge/-NodeJs-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
 ![React.Js](https://img.shields.io/badge/-ReactJs-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Vue.Js](https://img.shields.io/badge/-VueJs-565656?logo=Vue.Js&logoColor=white&style=for-the-badge)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-565656?logo=Flutter&logoColor=white&style=for-the-badge)&nbsp;
-![Asp.Net](https://img.shields.io/badge/-Asp.Net-565656?logo=Asp.Net&logoColor=white&style=for-the-badge)&nbsp;
+![Asp.Net](https://img.shields.io/badge/-Asp.Net-565656?logo=C%20Sharp&logoColor=white&style=for-the-badge)&nbsp;
+
+
+![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-565656?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-565656?logo=firebase&logoColor=white&style=for-the-badge)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-565656?logo=vercel&logoColor=white&style=for-the-badge)&nbsp;
 
 
 <br/>
@@ -60,6 +60,5 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lissonez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lissone-4a118a211/)
 [![Discord](https://img.shields.io/badge/-DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/858430926651916349)
-[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-34AF23?style=for-the-badge&logo=whatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5511910487619)
 
 <hr />
