@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href='https://gist.github.com/Lissone/56ee7ccc3e19a7069d87103d5ff24ce7' target='_blank'>VSCode Settings</a>
+  <a href="https://github.com/Lissone/eslint-config-lissone">ESLint Config</a>
+  ·
+   <a href='https://gist.github.com/Lissone/56ee7ccc3e19a7069d87103d5ff24ce7' target='_blank'>VSCode Settings</a>
 </p>
 
 <h3 align="center" style="margin-bottom: 30px">
